@@ -11,7 +11,7 @@ Dans le monde numérique actuel, la sécurité en ligne est <b>primordiale</b>. 
 <br />
 C'est un outil en ligne qui vous permettent de générer des mots de passe <b>aléatoires et sécurisés en un seul clic.</b>
 <br />
-## Mais c'est quoi les avantages d'utiliser un génératteur de mot de passe ? 🤔
+## Mais c'est quoi les avantages d'utiliser un générateur de mot de passe ? 🤔
 
 • <b>Mots de passe forts et uniques :</b> Les générateurs de mots de passe créent des mots de passe complexes et difficiles à deviner, ce qui réduit le risque de piratage.
 <br />
