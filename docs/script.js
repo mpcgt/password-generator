@@ -19,4 +19,5 @@ function createPassword() {
     while(lenght > password.length) {
         password += allChars[Math.floor(Math.random() * allChars.length)]
     }
+    passwordBox.value = password
 }
