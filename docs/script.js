@@ -24,4 +24,5 @@ function createPassword() {
 function copyPassword() {
   passwordBox.select();
   document.execCommand("copy");
+  alert("Votre mot de passe a été copié !");
 }
