@@ -17,6 +17,6 @@ function createPassword() {
     password += symbol[Math.floor(Math.random() * symbol.length)]
 
     while(lenght > password.length) {
-
+        password += allChars[Math.floor(Math.random() * allChars.length)]
     }
 }
